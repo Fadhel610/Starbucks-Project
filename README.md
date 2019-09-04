@@ -1,4 +1,6 @@
 # Starbucks-Project
+### Blog link: https://fadelhomoud.blogspot.com/2019/09/looking-at-most-valuable-customers.html
+
 ## Installation
 * Python 3.7
 * Pandas
